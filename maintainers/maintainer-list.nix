@@ -7482,6 +7482,12 @@
     github = "dsluijk";
     githubId = 8537327;
   };
+  dsqr = {
+    name = "0xdsqr";
+    email = "me@dsqr.dev";
+    github = "0xdsqr";
+    githubId = 99584622;
+  };
   dstathis = {
     email = "dylan.stephano-shachter@canonical.com";
     github = "dstathis";
